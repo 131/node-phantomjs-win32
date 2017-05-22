@@ -1,0 +1,3 @@
+[submodule "bin"]
+	path = bin
+	url = git@github.com:131/phantomjs-win32.git

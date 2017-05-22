@@ -1,0 +1,22 @@
+{
+  "name": "phantomjs-win-x86",
+  "version": "1.0.0",
+  "description": "phantomjs binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ivsdev.net:3rd/npm-phantomjs-win32.git"
+  },
+  "keywords": [
+    "phantomjs"
+  ],
+  "author": "Francois Leurent <fleurent@ivsweb.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nyks": "^3.18.0"
+  },
+  "devDependencies": {}
+}
