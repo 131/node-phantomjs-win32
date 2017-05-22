@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-win-x86",
-  "version": "1.9.8",
+  "version": "2.1.1",
   "description": "phantomjs binary",
   "main": "index.js",
   "scripts": {
