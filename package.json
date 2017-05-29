@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-win-x86",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "phantomjs binary",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   ],
   "author": "Francois Leurent <fleurent@ivsweb.com>",
   "license": "ISC",
-  "dependencies": { },
+  "dependencies": {},
   "devDependencies": {}
 }
