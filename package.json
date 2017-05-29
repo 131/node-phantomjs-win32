@@ -18,8 +18,6 @@
   ],
   "author": "Francois Leurent <fleurent@ivsweb.com>",
   "license": "ISC",
-  "dependencies": {
-    "nyks": "^3.18.0"
-  },
+  "dependencies": { },
   "devDependencies": {}
 }
